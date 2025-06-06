@@ -16,7 +16,7 @@ _What started as a ChatGPT experiment spiraled into beautiful insanity._
 
 ## 🎬 Demo Preview
 
-[![Quantum Rift Preview](https://img.shields.io/badge/preview-online-blue?logo=three.js)](quantumrift3d.netlify.app)  
+https://quantumrift3d.netlify.app
 
 ---
 
